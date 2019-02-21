@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/splashScreen.unity
+    guid: 455e50ecb19f8d34ea4dbe90e57720d3
+  - enabled: 1
+    path: Assets/Sportsball.unity
+    guid: f9a37d33bfca02d4f8bdd5bbc9ceb344
+  - enabled: 1
+    path: Assets/MenuMockUp.unity
+    guid: 32cf956417346b248a69ee43d2eccfe7
+  - enabled: 1
+    path: Assets/ReadyScreen.unity
+    guid: 1a2d6588f9c157145b0aa2365484a02e
+  - enabled: 0
+    path: Assets/Stadium.unity
+    guid: 8b77fb311628ea041954a4405eb65482
+  - enabled: 1
+    path: Assets/MountainRange2.unity
+    guid: 6432b37ef0f040f42a457c564773ea05
+  - enabled: 1
+    path: Assets/DeadForest.unity
+    guid: adea5a467184eba4a8b104cb62a1de57
+  - enabled: 1
+    path: Assets/SeasonMode.unity
+    guid: 3742ace1493943649bc82b24bf5d054b
+  - enabled: 1
+    path: Assets/TownOval.unity
+    guid: b91ca6d8ee8a3794e9fed8f8491ea08e
+  - enabled: 1
+    path: Assets/MagpiesPark.unity
+    guid: 9919f1791a3ca8240a6d5fc6854e09b0
+  - enabled: 1
+    path: Assets/WestTownie.unity
+    guid: 2991a2028a034e548a6dc1b7cc8a42b2
+  - enabled: 1
+    path: Assets/Moon.unity
+    guid: 92d541dc70627ab43a235174df04a5b2
+  - enabled: 1
+    path: Assets/Training.unity
+    guid: 4fefc347c950802489a16481f9f17075
+  - enabled: 1
+    path: Assets/GunHookTraining.unity
+    guid: 290f6079293a94340a2755d1fb750d18
+  - enabled: 1
+    path: Assets/AimTraining1.unity
+    guid: 5c2abbee25f45754da2f408ef1b79284
+  - enabled: 1
+    path: Assets/Missions.unity
+    guid: 31627a42d9e0b024ba800ef05e4e0b36
+  - enabled: 1
+    path: Assets/Obstacle Course.unity
+    guid: 8a529b988882db94b8a3002857981f36
+  - enabled: 1
+    path: Assets/Mission1.unity
+    guid: a791cdcacbd0c63458ab4857a93916b9
+  - enabled: 1
+    path: Assets/HighGround.unity
+    guid: 2c6baf0f265e7384bb45f7b599fbe2e7
+  - enabled: 1
+    path: Assets/DamCity.unity
+    guid: 0fabf123bb896be4bacf804053397d6f
+  - enabled: 1
+    path: Assets/BookOfLore.unity
+    guid: 10c39e71479c6784984fc18d083bae14
+  - enabled: 1
+    path: Assets/MagpieStadium.unity
+    guid: 45b04d3c9e0338c4d8a69e1ff5b32386
+  - enabled: 1
+    path: Assets/MagpieStadiumAus.unity
+    guid: 181066f881d462f42bf41cdb8a88c722
+  - enabled: 0
+    path: Assets/MountainRange.unity
+    guid: 908ed2b3c72b3b6489ee2843105ac904
+  - enabled: 1
+    path: Assets/TennisCourt.unity
+    guid: ecaca9a255fe17f46ad4ba4c66de8491
+  - enabled: 1
+    path: Assets/TournamentMode.unity
+    guid: 582416aa5dba45f4ebfd984fa1c525e2
+  - enabled: 1
+    path: Assets/Ruskville.unity
+    guid: 641953d95545f2040a9574b4fe53eac6
+  - enabled: 1
+    path: Assets/AirHockey.unity
+    guid: 72fabf1d416d28d468c34b63ff6d23dc
+  - enabled: 1
+    path: Assets/CaulburyPaintball.unity
+    guid: 6064784cc6c470e4ea2f2108b3d02f32
+  - enabled: 1
+    path: Assets/Caulbury.unity
+    guid: 3741ff12a7f54e64ead5de1448700dfc
+  - enabled: 1
+    path: Assets/Sector12b.unity
+    guid: 65b3510dd3cd11242b2d2c0d42c8fca8
+  - enabled: 1
+    path: Assets/RuskvillePaintball.unity
+    guid: 2f94305fede27d847aaf8073e2e6b598
+  - enabled: 1
+    path: Assets/CaptureFlag.unity
+    guid: 5545cc0306004224f9b0baebd826e32b
+  - enabled: 1
+    path: Assets/ChompBoss.unity
+    guid: 3b4a6b678d1b821419df5b59701b8ed3
+  - enabled: 1
+    path: Assets/SkiRace.unity
+    guid: ca3afda18e155da4ebfd6b1ffa70abc9
+  - enabled: 1
+    path: Assets/ContractLawnMower.unity
+    guid: 7cdeadee519a96d40a160dc0ec6f9ad7
+  - enabled: 1
+    path: Assets/CentreSquare.unity
+    guid: 289e7634a851e2547972afa01f1fe398
+  - enabled: 1
+    path: Assets/LawnmowerSportsball.unity
+    guid: 5aae356c1a88ef64fa55631a05063dfe
+  - enabled: 1
+    path: Assets/BeeKeeper.unity
+    guid: 89764d3087176a44aae4a1eb356e68d8
+  - enabled: 1
+    path: Assets/TugOfWar.unity
+    guid: 33a53e3b71fdfb848bf9760a55a20a37

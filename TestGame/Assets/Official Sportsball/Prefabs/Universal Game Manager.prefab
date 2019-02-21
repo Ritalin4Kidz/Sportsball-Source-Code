@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1800358680586856}
+  m_IsPrefabParent: 1
+--- !u!1 &1800358680586856
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4058153299207644}
+  - component: {fileID: 114497807522658208}
+  - component: {fileID: 114906836535619134}
+  m_Layer: 0
+  m_Name: Universal Game Manager
+  m_TagString: UniGameManager
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4058153299207644
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1800358680586856}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 17.114483, y: 9.290611, z: 20.689358}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114497807522658208
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1800358680586856}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1397316be5cbd34daf37e667e695bf1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  players: 1
+  aiPlayers: 0
+  levelPics:
+  - {fileID: 2100000, guid: 5fcd1063af548bc4d9959989d1023fd4, type: 2}
+  - {fileID: 2100000, guid: bbf6d9a436105844d871d5620bd8751c, type: 2}
+  - {fileID: 2100000, guid: c7801ed861504e0499838684b8c4fb37, type: 2}
+  - {fileID: 2100000, guid: cbb8e9ad6ecc4ce4d9df757324f1e384, type: 2}
+  - {fileID: 2100000, guid: c7801ed861504e0499838684b8c4fb37, type: 2}
+  - {fileID: 2100000, guid: 4d5d980a6f426b24d97e5a2ceba33ba8, type: 2}
+  - {fileID: 2100000, guid: 75b99f1850795f44e9dfc6060d56a85c, type: 2}
+  - {fileID: 2100000, guid: 6bf3788bbcf23c34f963c5190ec0da6e, type: 2}
+  - {fileID: 2100000, guid: 634ae1de5da35344eb29731253c42706, type: 2}
+  - {fileID: 2100000, guid: 96951a8756208384cb1807e9f27efa3a, type: 2}
+  - {fileID: 2100000, guid: 700955fe406cc204ea26742ca35a1396, type: 2}
+  - {fileID: 2100000, guid: d1d2138548ce4c44ab7b7d393d776b99, type: 2}
+  - {fileID: 2100000, guid: e3c90d2bd5acf0f41b2dfa250a682454, type: 2}
+  - {fileID: 2100000, guid: e3c90d2bd5acf0f41b2dfa250a682454, type: 2}
+  - {fileID: 2100000, guid: 7ed63ba1ef716d649855518920c18a1c, type: 2}
+  - {fileID: 2100000, guid: 3646c65c2da78264584d8303f8415491, type: 2}
+  - {fileID: 2100000, guid: a6537c3102b7b364c9cfacea13a6f44f, type: 2}
+  - {fileID: 2100000, guid: a6537c3102b7b364c9cfacea13a6f44f, type: 2}
+  - {fileID: 2100000, guid: 7a2877bc421fd374b9537e83253f3adf, type: 2}
+  - {fileID: 2100000, guid: 7ed63ba1ef716d649855518920c18a1c, type: 2}
+  - {fileID: 2100000, guid: 7e946fcd9f3a14a4b96014ae4ebb5a4b, type: 2}
+  - {fileID: 2100000, guid: 7b689eed90642af4b96cf1d7fa662702, type: 2}
+  - {fileID: 2100000, guid: f85f929a30c4c8c4794bb026110067bc, type: 2}
+  - {fileID: 2100000, guid: e77de324248ae534b9bab1217b1367fc, type: 2}
+  - {fileID: 2100000, guid: f6c4776aa3d090f4db2e39bd3dda31b0, type: 2}
+  - {fileID: 2100000, guid: 3245f83bf5b7abd439043bb95d93339b, type: 2}
+  - {fileID: 2100000, guid: aa5c99a953501154aa2f552f41e5059a, type: 2}
+  - {fileID: 2100000, guid: 67a2cbc850692104fb729ece0606132a, type: 2}
+  seasonModeOn: 0
+  TournamentMode: 0
+  GrandFinal: 0
+  playerSeasonTeam: {fileID: 1546809790200154, guid: 00e35c70d3e057f409013663405def3e,
+    type: 2}
+  seasonMaxrounds: 10
+  seasonRound: 1
+  LevelLoad: TugOfWar
+  gameTime: 60
+  extraTime: 1
+  team1: {fileID: 1546809790200154, guid: 00e35c70d3e057f409013663405def3e, type: 2}
+  team2: {fileID: 1937120486829226, guid: f81e3396976d4be4cad57822f8603878, type: 2}
+  skybox: {fileID: 2100000, guid: 994becd7dcdbd324fade5051799d6500, type: 2}
+  baseTeam1: {fileID: 2100000, guid: 5daed03aa714e7043b681cc1ec0bf0f2, type: 2}
+  baseTeam2: {fileID: 2100000, guid: 9de07eefa8937d84eab5d216b72978cb, type: 2}
+  basesplatTeam1: {fileID: 2100000, guid: c2930cea91d48cd479a6985385a655c7, type: 2}
+  basesplatTeam2: {fileID: 2100000, guid: 383e913e161a7d14c80730454dd54a00, type: 2}
+  banner1: {fileID: 21300000, guid: 80f6a0c0664d88e408392f7145ed883d, type: 3}
+  banner2: {fileID: 21300000, guid: b934c79ccee45ca48bb25dd70947127a, type: 3}
+  teamname1: Freebee Network
+  teamname2: Dam City Greens
+  isSpectator: 0
+  spectateCheats: 0
+  spectating: 0
+  achievements: 0100000000
+  lockedRounds: 00000000000101010101010101010101010101010101010101
+  round: 1
+  playerType:
+  - Scout
+  - Regular
+  - Regular
+  - Regular
+  playerTeams:
+  - Team1
+  - Team1
+  - Team2
+  - Team2
+  playerReady: 01000000
+  aiIsPlaying: 0
+  boolStopAudio: 0
+  listOfTeams:
+  - {fileID: 1546809790200154, guid: 00e35c70d3e057f409013663405def3e, type: 2}
+  - {fileID: 1937120486829226, guid: f81e3396976d4be4cad57822f8603878, type: 2}
+  - {fileID: 1571132363438792, guid: 7237e3a8a440da1469975113bd90c761, type: 2}
+  - {fileID: 1245010537109788, guid: a385ee488e022c14fbf2ed1859eb88ec, type: 2}
+  - {fileID: 1297024128605772, guid: 257873ce60b08154faca684b93380b4b, type: 2}
+  - {fileID: 1924483192803462, guid: feba89c57a6621147aae0099a0dba877, type: 2}
+  profileName: Ritalin4Kidz
+  profileLvl: 7
+  profileXP: 54
+  profileXpLvlUp: 1906
+  songVolume: 0
+  lookSens: 3
+  keyBoardPlayer: 0
+  MutatorRule: None
+  ballMat: {fileID: 2100000, guid: 937a132c9e78f0f41b638f8f46ed7bb1, type: 2}
+  consoleInGame: 1
+--- !u!114 &114906836535619134
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1800358680586856}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e88c60e703e39a40b82ac0b87dd1a95, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  consoleRef: {fileID: 223318074098312326, guid: 18db7a4c011d49c45b27ef139f9ea762,
+    type: 2}

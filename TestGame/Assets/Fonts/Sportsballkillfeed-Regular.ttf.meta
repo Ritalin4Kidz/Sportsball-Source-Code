@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 899f3f1d8dbd5aa4881c44ef3e36ead2
+timeCreated: 1527898948
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sportsballkillfeed
+  fontNames:
+  - Sportsballkillfeed
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
